@@ -1,0 +1,24 @@
+<Program koji sprema pobjednika aktualnog svjetskog prvenstva>
+
+<Početak glavne funkcije>
+major
+/
+
+<Deklaracija varijabli>
+   number god = 2018.
+   word pob = 'Francuska'.
+   word res.
+
+
+<Rezultat>
+   res = 'Pobjednik SP-a ' + god + '. godine u nogometu je' + pob.
+
+vrati 0.
+\
+
+<Funkcija koja množi brojeve>
+   number mnz (number a, number b)
+/
+   number rez = a * b.
+   vrati rez.
+\
